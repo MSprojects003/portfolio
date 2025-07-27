@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Img } from 'react-image';
 import { Code, Layout, Cpu, Globe, PenTool, Palette, Figma } from 'lucide-react';

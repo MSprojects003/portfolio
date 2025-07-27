@@ -1,4 +1,4 @@
-import React from 'react';
+ 
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Palette, Layout, ArrowLeft, ArrowRight } from 'lucide-react';

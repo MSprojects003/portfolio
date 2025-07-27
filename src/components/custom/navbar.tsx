@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
-import { User, Info, Folder, Phone, ToolCase, ToolCaseIcon, Brain, Paintbrush, Paperclip } from 'lucide-react';
+import { User,  Folder,  Paintbrush, Paperclip } from 'lucide-react';
 import cv from "../../assets/cv/FATHIMA SHAREENA new cv.pdf";
 const Navbar: React.FC = () => {
   const navItems = [

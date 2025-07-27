@@ -17,7 +17,7 @@ const Skills = () => {
     },
     { 
       name: 'Canva', 
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg',
+      logo: 'https://static.canva.com/web/images/856bac30504ecac8dbd38dbee61de1f1.svg',
       fallbackIcon: <Palette className="w-6 h-6" />
     },
     { 

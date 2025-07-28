@@ -9,6 +9,7 @@ import grpahc2 from "../../assets/graphic/IMG2.jpg"
 import graphic3 from "../../assets/graphic/IMG3.jpg"
 import graphic4 from "../../assets/graphic/IMG4.jpg"
 import graphic5 from "../../assets/graphic/IMG5.jpg"
+import ui1 from "../../assets/ui_ux/img1.jpg"
 
 const Designs = () => {
   // Enhanced design data with more cards
@@ -54,60 +55,12 @@ const Designs = () => {
   const uiUxDesigns = [
     {
       id: 1,
-      title: 'Mobile Banking App',
-      description: 'Complete redesign of financial app',
-      image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3',
-      link: 'https://figma.com/project/12345'
+      title: 'Indoor Plant E-commerce Web Design',
+      description: 'E commerce Web Design',
+      image: ui1,
+      link: 'https://shorturl.at/vhXbl'
     },
-    {
-      id: 2,
-      title: 'E-commerce Platform',
-      description: 'Fashion retailer website redesign',
-      image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0',
-      link: 'https://figma.com/project/67890'
-    },
-    {
-      id: 3,
-      title: 'Analytics Dashboard',
-      description: 'Data visualization interface',
-      image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f',
-      link: 'https://figma.com/project/54321'
-    },
-    {
-      id: 4,
-      title: 'Mobile UI Kit',
-      description: 'Design system components',
-      image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3',
-      link: 'https://figma.com/project/98765'
-    },
-    {
-      id: 5,
-      title: 'Onboarding Flow',
-      description: 'User onboarding experience',
-      image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71',
-      link: 'https://figma.com/project/13579'
-    },
-    {
-      id: 6,
-      title: 'Admin Dashboard',
-      description: 'Backend management interface',
-      image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d',
-      link: 'https://figma.com/project/24680'
-    },
-    {
-      id: 7,
-      title: 'Food Delivery App',
-      description: 'Restaurant ordering platform',
-      image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5',
-      link: 'https://figma.com/project/86420'
-    },
-    {
-      id: 8,
-      title: 'Fitness Tracker',
-      description: 'Health monitoring application',
-      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b',
-      link: 'https://figma.com/project/97531'
-    }
+     
   ];
 
   return (

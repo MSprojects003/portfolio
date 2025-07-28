@@ -5,6 +5,10 @@ import { Palette, Layout, ArrowLeft, ArrowRight } from 'lucide-react';
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from '@/components/ui/carousel';
 import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog';
 import graphic1 from "../../assets/graphic/IMG-20250627-WA0006.jpg"
+import grpahc2 from "../../assets/graphic/IMG2.jpg"
+import graphic3 from "../../assets/graphic/IMG3.jpg"
+import graphic4 from "../../assets/graphic/IMG4.jpg"
+import graphic5 from "../../assets/graphic/IMG5.jpg"
 
 const Designs = () => {
   // Enhanced design data with more cards
@@ -18,53 +22,33 @@ const Designs = () => {
     },
     {
       id: 2,
-      title: 'Marketing Materials',
-      description: 'Digital and print collateral for product launch',
-      image: 'https://images.unsplash.com/photo-1607748851687-ba9a10438621',
+      title: 'Professional Digital Marketing Poster',
+      description: 'Digital Marketing Agency Promotional Design',
+      image: grpahc2,
       link: '#'
     },
     {
       id: 3,
-      title: 'Social Media Graphics',
-      description: 'Monthly content package for Instagram',
-      image: 'https://images.unsplash.com/photo-1611162617213-6d7a0de25620',
+      title: 'The Essence of an Orange',
+      description: 'Creative Food Art / Digital Surrealism',
+      image:  graphic3,
       link: '#'
     },
     {
       id: 4,
-      title: 'Business Cards',
-      description: 'Minimalist professional card design',
-      image: 'https://images.unsplash.com/photo-1548036328-c9fa89d128fa',
+      title: 'Furniture Poster',
+      description: 'A clean and modern ad showcasing stylish home furniture',
+      image:  graphic4,
       link: '#'
     },
     {
       id: 5,
-      title: 'Event Posters',
-      description: 'Promotional materials for concerts',
-      image: 'https://images.unsplash.com/photo-1585771724684-38269d6639fd',
+      title: 'Sri Lanka Tourism Collage',
+      description: 'Web Development / Graphic Design',
+      image:  graphic5,
       link: '#'
     },
-    {
-      id: 6,
-      title: 'Product Packaging',
-      description: 'Eco-friendly packaging solutions',
-      image: 'https://images.unsplash.com/photo-1605000797499-95a51c5269ae',
-      link: '#'
-    },
-    {
-      id: 7,
-      title: 'Book Covers',
-      description: 'Fiction novel cover designs',
-      image: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f',
-      link: '#'
-    },
-    {
-      id: 8,
-      title: 'Magazine Layouts',
-      description: 'Editorial design for fashion magazine',
-      image: 'https://images.unsplash.com/photo-1513151233558-d860c5398176',
-      link: '#'
-    }
+    
   ];
 
   const uiUxDesigns = [

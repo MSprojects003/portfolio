@@ -4,15 +4,16 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Palette, Layout, ArrowLeft, ArrowRight } from 'lucide-react';
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from '@/components/ui/carousel';
 import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog';
+import graphic1 from "../../assets/graphic/IMG-20250627-WA0006.jpg"
 
 const Designs = () => {
   // Enhanced design data with more cards
   const graphicDesigns = [
     {
       id: 1,
-      title: 'Brand Identity',
-      description: 'Complete branding package for tech startup',
-      image: 'https://images.unsplash.com/photo-1633158829875-e5316a358c6f',
+      title: 'Food Social Media Design',
+      description: 'Special Tasty Fried Chicken Promo Design',
+      image:  graphic1,
       link: '#'
     },
     {

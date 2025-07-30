@@ -11,6 +11,9 @@ import graphic3 from "../../assets/graphic/IMG3.jpg";
 import graphic4 from "../../assets/graphic/IMG4.jpg";
 import graphic5 from "../../assets/graphic/IMG5.jpg";
 import ui1 from "../../assets/ui_ux/img1.jpg";
+import ui2 from "../../assets/ui_ux/mobile ui.jpg"
+import ui3 from "../../assets/ui_ux/ui3.jpg"
+import ui4 from "../../assets/ui_ux/ui4.jpg"
 
 const Designs = () => {
   // Graphic design projects
@@ -61,6 +64,28 @@ const Designs = () => {
       image: ui1,
       link: 'https://www.behance.net/gallery/230470455/PlantHaven-Indoor-Plant-E-commerce-Web-Design'
     },
+     {
+      id: 2,
+      title: 'Mobile App Design',
+      description: 'Mobile Application Design',
+      image: ui2,
+      link: 'https://www.behance.net/gallery/229221837/Modern-Furniture-App-UI-Design'
+    },
+     {
+      id: 3,
+      title: 'Perfume Web Design',
+      description: 'Secret Notes Luxury Perfume Online Store Design',
+      image: ui3,
+      link: 'https://www.behance.net/gallery/228687623/Secret-Notes-Luxury-Perfume-Online-Store-Design'
+    },
+     {
+      id: 4,
+      title: 'Coffe Shop eb Design',
+      description: 'Coffee Haven Web Design Concept',
+      image: ui4,
+      link: 'https://www.behance.net/gallery/231418857/Coffee-Haven-Web-Design-Concept'
+    },
+    
   ];
 
   return (

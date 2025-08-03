@@ -14,6 +14,7 @@ import ui1 from "../../assets/ui_ux/img1.jpg";
 import ui2 from "../../assets/ui_ux/mobile ui.jpg"
 import ui3 from "../../assets/ui_ux/ui3.jpg"
 import ui4 from "../../assets/ui_ux/ui4.jpg"
+import ui5 from "../../assets/ui_ux/ui5.jpg"
 import grpahic6 from "../../assets/graphic/img6.jpg"
 import graphic7 from "../../assets/graphic/img7.jpg"
 import graphic8 from "../../assets/graphic/img8.jpg"
@@ -25,6 +26,7 @@ import graphic13 from "../../assets/graphic/img13.jpg"
 import graphic14 from "../../assets/graphic/img14.jpg"
 import grapgic15 from "../../assets/graphic/img15.jpg"
 import graphic16 from "../../assets/graphic/img16.jpg"
+import graphic17 from "../../assets/graphic/img18.jpg"
 
 const Designs = () => {
   // Graphic design projects
@@ -141,6 +143,13 @@ const Designs = () => {
       image: graphic16,
       link: '#'
     },
+    {
+      id: 17,
+      title: 'Advertisement Post',
+      description: 'Advertisement for the AMSS ',
+      image: graphic17,
+      link: '#'
+    },
   ];
 
   // UI/UX design projects
@@ -172,6 +181,13 @@ const Designs = () => {
       description: 'Coffee Haven Web Design Concept',
       image: ui4,
       link: 'https://www.behance.net/gallery/231418857/Coffee-Haven-Web-Design-Concept'
+    },
+      {
+      id: 5,
+      title: 'Case study for full ui-ux design ',
+      description: 'Case study',
+      image: ui5,
+      link: '#'
     },
     
   ];

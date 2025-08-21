@@ -187,7 +187,7 @@ const Designs = () => {
       title: 'Case study for full ui-ux design ',
       description: 'Case study',
       image: ui5,
-      link: '#'
+      link: 'https://www.behance.net/gallery/231695447/Explore-Sri-Lanka-(Case-Study)-UIUX-Design'
     },
     
   ];

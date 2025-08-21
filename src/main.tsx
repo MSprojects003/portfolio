@@ -15,7 +15,6 @@ createRoot(document.getElementById('root')!).render(
      <Profile />
      <Skills />
      <Designs />
-     
      </div>
   </StrictMode>,
 )

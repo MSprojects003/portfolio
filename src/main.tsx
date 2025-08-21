@@ -7,6 +7,7 @@ import Profile from './components/custom/Profile.tsx'
  
 import Skills from './components/custom/Skills.tsx'
 import Designs from './components/custom/Designs.tsx'
+import Testing from './components/custom/Testing.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById('root')!).render(
      <Profile />
      <Skills />
      <Designs />
+     
      </div>
   </StrictMode>,
 )

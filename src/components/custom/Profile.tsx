@@ -8,7 +8,7 @@ const Profile: React.FC = () => {
   const profileData = {
     fullName: 'Shareena Faleel',
     position: 'Graphic Designer | UI-UX Designer',
-    description: 'I am a beginner Graphic and UI/UX Designer passionate about crafting clean, modern, and user-friendly designs. Skilled in tools like Figma, Photoshop, and Canva, I focus on turning ideas into visually appealing and functional digital products. I enjoy working on logo design, social media graphics, and mobile/web interfaces. Always eager to learn and grow, I continuously explore new design trends and techniques to improve my skills. My goal is to create meaningful and effective design solutions that enhance user experience and help clients achieve their objectives.',
+    description: 'I am a Graphic and UI/UX Designer passionate about crafting clean, modern, and user-friendly designs. Skilled in tools like Figma, Photoshop, and Canva, I focus on turning ideas into visually appealing and functional digital products. I enjoy working on logo design, social media graphics, and mobile/web interfaces. Always eager to learn and grow, I continuously explore new design trends and techniques to improve my skills. My goal is to create meaningful and effective design solutions that enhance user experience and help clients achieve their objectives.',
     email: 'shareenafaleel37@gmail.com',
     
     address: '164 D Muslim Colony welipenna',

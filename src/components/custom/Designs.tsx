@@ -27,6 +27,8 @@ import graphic14 from "../../assets/graphic/img14.jpg"
 import grapgic15 from "../../assets/graphic/img15.jpg"
 import graphic16 from "../../assets/graphic/img16.jpg"
 import graphic17 from "../../assets/graphic/img18.jpg"
+import graphic19 from "../../assets/graphic/img19.jpg"
+import graphic20 from "../../assets/graphic/img20.jpg"
 
 const Designs = () => {
   // Graphic design projects
@@ -150,6 +152,21 @@ const Designs = () => {
       image: graphic17,
       link: '#'
     },
+    {
+      id: 18,
+      title: 'Tutor Advertisement Post',
+      description: 'Advertisement for Tutor ',
+      image: graphic19,
+      link: '#'
+    },
+     {
+      id: 19,
+      title: 'Tutor Advertisement Post 2',
+      description: 'Advertisement for Tutor ',
+      image: graphic20,
+      link: '#'
+    },
+    
   ];
 
   // UI/UX design projects

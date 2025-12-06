@@ -29,6 +29,18 @@ import graphic16 from "../../assets/graphic/img16.jpg"
 import graphic17 from "../../assets/graphic/img18.jpg"
 import graphic19 from "../../assets/graphic/img19.jpg"
 import graphic20 from "../../assets/graphic/img20.jpg"
+import what1 from "../../assets/graphic/what1.jpg"
+import what2 from "../../assets/graphic/what2.jpg"
+import what3 from "../../assets/graphic/what3.jpg"
+import what4 from "../../assets/graphic/what4.jpg"
+import what5 from "../../assets/graphic/what5.jpg"
+import what6 from "../../assets/graphic/what6.jpg"
+import what7 from "../../assets/graphic/what7.jpg"
+import what8 from "../../assets/graphic/what8.jpg"
+import what9 from "../../assets/graphic/what9.jpg"
+import what10 from "../../assets/graphic/what10.jpg"
+import what11 from "../../assets/graphic/what11.jpg"
+import what12 from "../../assets/graphic/what12.jpg"
 
 const Designs = () => {
   // Graphic design projects
@@ -37,130 +49,214 @@ const Designs = () => {
       id: 1,
       title: 'Burger Post',
       description: 'Hot & Spicy Burger Advertisement',
-      image: graphic1,
+      image: what6,
       link: '#'
     },
     {
       id: 2,
       title: 'Professional Digital Marketing Poster',
       description: 'Digital Marketing Agency Promotional Design',
-      image: graphic2,
+      image: what5,
       link: '#'
     },
     {
       id: 3,
       title: 'The Essence of an Orange',
       description: 'Creative Food Art / Digital Surrealism',
-      image: graphic3,
+      image: what3,
       link: '#'
     },
     {
       id: 4,
       title: 'Furniture Poster',
       description: 'A clean and modern ad showcasing stylish home furniture',
-      image: graphic4,
+      image: what4,
       link: '#'
     },
     {
       id: 5,
       title: 'Sri Lanka Tourism Collage',
       description: 'Web Development / Graphic Design',
-      image: graphic5,
+      image: what1,
       link: '#'
     },
     {
       id: 6,
       title: 'Study Abroad Promotional Banner',
       description: ' ',
-      image: grpahic6,
+      image: what2,
       link: '#'
     },
     {
       id: 7,
       title: 'Rent a Car Poster',
       description: 'Attractive advertisement for a car rental service',
-      image: graphic7,
+      image: what7,
       link: '#'
     },
       {
       id: 8,
       title: 'Crispy Spring Rolls Promo',
       description: 'A warm and inviting ad design showcasing vegetable spring rolls with a 25% offer and free home delivery',
-      image: graphic8,
+      image: what8,
       link: '#'
     },
      {
       id: 9,
       title: 'Chiken Burger poster',
       description: 'A burger so good, it speaks for itself. Fresh, bold, and unforgettable',
-      image: graphic9,
+      image: what9,
       link: '#'
     },
      {
       id: 10,
       title: 'Acer Aspire 3 Laptop Ad',
       description: 'A promotional graphic for the Acer Aspire 3 laptop',
-      image: graphic10,
+      image: what10,
       link: '#'
     },
      {
       id: 11,
       title: 'Ice Cream Delight',
       description: 'A vibrant and eye-catching promotional design for a 50% discount on fruity blueberry  ice cream.',
-      image: graphic11,
+      image: what11,
       link: '#'
     },
     {
       id: 12,
       title: 'Burger Promotion',
       description: 'A bold and colorful food advertisement banner featuring a fresh burger ',
-      image: graphic12,
+      image: what12,
       link: '#'
     },
     {
       id: 13,
+      title: 'Burger Post',
+      description: 'Hot & Spicy Burger Advertisement',
+      image: graphic1,
+      link: '#'
+    },
+    {
+      id: 14,
+      title: 'Professional Digital Marketing Poster',
+      description: 'Digital Marketing Agency Promotional Design',
+      image: graphic2,
+      link: '#'
+    },
+    {
+      id: 15,
+      title: 'The Essence of an Orange',
+      description: 'Creative Food Art / Digital Surrealism',
+      image: graphic3,
+      link: '#'
+    },
+    {
+      id: 16,
+      title: 'Furniture Poster',
+      description: 'A clean and modern ad showcasing stylish home furniture',
+      image: graphic4,
+      link: '#'
+    },
+    {
+      id: 17,
+      title: 'Sri Lanka Tourism Collage',
+      description: 'Web Development / Graphic Design',
+      image: graphic5,
+      link: '#'
+    },
+    {
+      id: 18,
+      title: 'Study Abroad Promotional Banner',
+      description: ' ',
+      image: grpahic6,
+      link: '#'
+    },
+    {
+      id: 19,
+      title: 'Rent a Car Poster',
+      description: 'Attractive advertisement for a car rental service',
+      image: graphic7,
+      link: '#'
+    },
+      {
+      id: 20,
+      title: 'Crispy Spring Rolls Promo',
+      description: 'A warm and inviting ad design showcasing vegetable spring rolls with a 25% offer and free home delivery',
+      image: graphic8,
+      link: '#'
+    },
+     {
+      id: 21,
+      title: 'Chiken Burger poster',
+      description: 'A burger so good, it speaks for itself. Fresh, bold, and unforgettable',
+      image: graphic9,
+      link: '#'
+    },
+     {
+      id: 22,
+      title: 'Acer Aspire 3 Laptop Ad',
+      description: 'A promotional graphic for the Acer Aspire 3 laptop',
+      image: graphic10,
+      link: '#'
+    },
+     {
+      id: 23,
+      title: 'Ice Cream Delight',
+      description: 'A vibrant and eye-catching promotional design for a 50% discount on fruity blueberry  ice cream.',
+      image: graphic11,
+      link: '#'
+    },
+    {
+      id: 24,
+      title: 'Burger Promotion',
+      description: 'A bold and colorful food advertisement banner featuring a fresh burger ',
+      image: graphic12,
+      link: '#'
+    },
+    {
+      id: 25,
       title: 'Canon Printer Promotion',
       description: 'Clean and informative ad design highlighting Canon printer features such as WiFi, print-scan-copy functions, and high page yield. ',
       image: graphic13,
       link: '#'
     },
     {
-      id: 14,
+      id: 26,
       title: 'Green tea Poster',
       description: '  ',
       image: graphic14,
       link: '#'
     },
     {
-      id: 15,
+      id: 27,
       title: 'Iphone 14 Pro Advertisement',
       description: '  ',
       image: grapgic15,
       link: '#'
     },
     {
-      id: 16,
+      id: 28,
       title: 'Digital Marketing Poster',
       description: '  ',
       image: graphic16,
       link: '#'
     },
     {
-      id: 17,
+      id: 29,
       title: 'Advertisement Post',
       description: 'Advertisement for the AMSS ',
       image: graphic17,
       link: '#'
     },
     {
-      id: 18,
+      id: 30,
       title: 'Tutor Advertisement Post',
       description: 'Advertisement for Tutor ',
       image: graphic19,
       link: '#'
     },
      {
-      id: 19,
+      id: 31,
       title: 'Tutor Advertisement Post 2',
       description: 'Advertisement for Tutor ',
       image: graphic20,
@@ -284,9 +380,9 @@ const Designs = () => {
                             </DialogContent>
                           </Dialog>
                           <CardContent className="p-4 flex-1 flex flex-col">
-                            <h3 className="text-md font-semibold text-white mb-1">{design.title}</h3>
+                           {/* <h3 className="text-md font-semibold text-white mb-1">{design.title}</h3>
                             <p className="text-gray-400 text-sm mb-3 flex-1">{design.description}</p>
-                            
+                            */}
                           </CardContent>
                         </Card>
                       </CarouselItem>

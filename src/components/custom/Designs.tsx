@@ -29,15 +29,12 @@ import graphic16 from "../../assets/graphic/img16.jpg"
 import graphic17 from "../../assets/graphic/img18.jpg"
 import graphic19 from "../../assets/graphic/img19.jpg"
 import graphic20 from "../../assets/graphic/img20.jpg"
-import what1 from "../../assets/graphic/what1.jpg"
-import what2 from "../../assets/graphic/what2.jpg"
-import what3 from "../../assets/graphic/what3.jpg"
+ 
 import what4 from "../../assets/graphic/what4.jpg"
 import what5 from "../../assets/graphic/what5.jpg"
 import what6 from "../../assets/graphic/what6.jpg"
 import what7 from "../../assets/graphic/what7.jpg"
-import what8 from "../../assets/graphic/what8.jpg"
-import what9 from "../../assets/graphic/what9.jpg"
+import whatnew from "../../assets/graphic/whatnew.jpg"
 import what10 from "../../assets/graphic/what10.jpg"
 import what11 from "../../assets/graphic/what11.jpg"
 import what12 from "../../assets/graphic/what12.jpg"
@@ -59,34 +56,22 @@ const Designs = () => {
       image: what5,
       link: '#'
     },
+   
     {
       id: 3,
-      title: 'The Essence of an Orange',
-      description: 'Creative Food Art / Digital Surrealism',
-      image: what3,
-      link: '#'
-    },
-    {
-      id: 4,
       title: 'Furniture Poster',
       description: 'A clean and modern ad showcasing stylish home furniture',
       image: what4,
       link: '#'
     },
-    {
-      id: 5,
-      title: 'Sri Lanka Tourism Collage',
-      description: 'Web Development / Graphic Design',
-      image: what1,
+     {
+      id: 4,
+      title: 'Furniture Poster',
+      description: 'A clean and modern ad showcasing stylish home furniture',
+      image: whatnew,
       link: '#'
     },
-    {
-      id: 6,
-      title: 'Study Abroad Promotional Banner',
-      description: ' ',
-      image: what2,
-      link: '#'
-    },
+    
     {
       id: 7,
       title: 'Rent a Car Poster',
@@ -94,20 +79,8 @@ const Designs = () => {
       image: what7,
       link: '#'
     },
-      {
-      id: 8,
-      title: 'Crispy Spring Rolls Promo',
-      description: 'A warm and inviting ad design showcasing vegetable spring rolls with a 25% offer and free home delivery',
-      image: what8,
-      link: '#'
-    },
-     {
-      id: 9,
-      title: 'Chiken Burger poster',
-      description: 'A burger so good, it speaks for itself. Fresh, bold, and unforgettable',
-      image: what9,
-      link: '#'
-    },
+       
+     
      {
       id: 10,
       title: 'Acer Aspire 3 Laptop Ad',
